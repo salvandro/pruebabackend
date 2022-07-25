@@ -25,7 +25,7 @@ Resolucion del proyecto
 
 1. Se debe identificar y conocer los parámetros a seguir, si se desconoce alguno se debe dedicar tiempo de estudio y aprendizaje. A continucaión se marcarán los parámetros conocidos con una letra "C" y los que se necesite de aprendizaje previo con una letra "A":
   a) PHP 8 - A
-  b) Apache - C
+  b) Apache - A
   c) Composer - A
   d) JSON:API - A
   e) Symfony Routing - A
@@ -34,7 +34,7 @@ Resolucion del proyecto
   h) Sysmfony http Foundation - A
   i) Twig - A
   j) Phinix.org - A
-  k) Bases de Datos - C
+  k) HTML5 - A
 
 2. Se deben obtener e instalar las herrramientas necesarias
   a) PHP
@@ -46,6 +46,10 @@ Resolucion del proyecto
   
 3. Se diseñará las pantallas del framework en bocetos a mano para poder visualizar de forma gáfica las necesidades a resolver.
 
-4. Se creará el diagrama entida relacion para la base de datos necesaria para el correcto funcionamiento del sistema.
+4. Se creará el diagrama entidad relación para la base de datos necesaria para el correcto funcionamiento del sistema.
 
-5. 
+5. Se elegirán las librerías necesarias para el correcto funcionamiento del framework.
+
+6. Se procede a generar la base de datos y se alimenta con la información necesaria.
+
+7. 
