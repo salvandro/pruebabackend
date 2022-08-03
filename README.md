@@ -52,4 +52,18 @@ Resolucion del proyecto
 
 6. Se procede a generar la base de datos y se alimenta con la información necesaria.
 
-7. 
+7. Se codifican las funciones y se hacen las conexiones necesarias a los difeerentes elementos del framework, los cuales son:
+    a) Edicion de Eventos (pantalla para admins).
+    b) Contador de tiempo para eventos.
+    c) Mostrador de eventos general y por tipo.
+    d) 
+
+8. Se generan las pantallas de la página web con sus respectivos formatos visuales (CSS).
+
+9. Se conectan las funciones con las pantallas completando de esta manera la primera parte de la prueba.
+
+10. Se diseña las pantallas necesarias para la app en android.
+
+11. Se codifican las funciones en android para mantener intrega la conexión entre los dispositivos y la página, todo basado en JSON:API.
+
+12.   
